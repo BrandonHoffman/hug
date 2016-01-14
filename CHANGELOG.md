@@ -111,5 +111,5 @@ Changelog
 - Added `in_range`, `greater_than`, and `less_than` types to allow easily limiting values entered into an API
 
 ### 2.0.0
-- Adds support for running arbitrary python functions at runtime via an `@hug.startup` decorator
-
+- Added support for running arbitrary python functions at runtime via an `@hug.startup` decorator
+- Added support `smart redirects` which enable easily redirecting within your API
